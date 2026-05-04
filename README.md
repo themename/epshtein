@@ -9,6 +9,6 @@ markdown
 Что нужно установить на компьютер: - Python 3.10 или выше - Библиотеки: `pip install matplotlib requests` --- 
 ## Как запустить 
 ```bash 
-git clone https://github.com/твой-логин/weather-diary.git 
-cd weather-diary 
+git clone https://github.com/themename/epshtein.git 
+cd epshtein
 python main.py
